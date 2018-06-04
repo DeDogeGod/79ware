@@ -51,6 +51,10 @@ Open xcode
 Click the Open Project option
 Find the source file and click open
 Click Build
+On the left scroll down for products
+On the drop down ther should be pwnedhook.dylib
+Right Click and click show in finder
+Copt that and put it into the 79Ligit folder (Any one them. Perfered the one inside the source folder)
 __________________________________
 ## How to change skins (Do this before building or if you want to change skins)
 Double click on the source folder
