@@ -26,7 +26,7 @@ ________________________
 Drag folder to desktop
 Then open terminal and type this
 ``
-cd Desktop/79ware
+cd Desktop/79ware-master/79Hook
 sudo ./osxinj csgo_osx64 pwned.dylib
 ``
 It will ask you for your password.
